@@ -1,0 +1,1 @@
+print(repr('Hello Algernon'.rjust(17, '!')))
